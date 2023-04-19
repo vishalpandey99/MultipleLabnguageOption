@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Language Opinion</string>
+    <string name="prompt_email">ईमेल</string>
+    <string name="prompt_password">पासवर्ड</string>
+    <string name="prompt_login">लॉगिन करा</string>
+</resources>

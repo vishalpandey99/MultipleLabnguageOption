@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Language Opinion</string>
+    <string name="prompt_email">ای میل</string>
+    <string name="prompt_password">پاس ورڈ</string>
+    <string name="prompt_login">لاگ ان کریں</string>
+</resources>
